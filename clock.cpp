@@ -74,6 +74,6 @@ void Clock::sync()
     std::cout << "Seconds since epoch: " << seconds << std::endl;
     hour = (seconds/(60 * 60));
     std::cout << "Hour: " << hour << std::endl;
-    
+     
 
 }
